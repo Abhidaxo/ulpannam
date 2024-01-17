@@ -1,0 +1,150 @@
+[
+  {
+    "filter_id": 1,
+    "filter_name": "All categories",
+    "products": [
+      {
+        "id": 11,
+        "name": "NIKE SB Dunk Low",
+        "detail": "SIZES : 40- 45 AVAILABLE FREE SHIP 10@ TOP END QUALITY⭐ WITH OG BOX 📦 & ALL KIT 49 EXTR",
+        "price": "RATE : 2399",
+        "imgSrc": "images/dunk.jpg"
+      },
+
+      {
+        "id": 12,
+        "name": "Nike blazer mid 77 vintage",
+        "detail": "SIZES : 40 - 45 AVAILABLE 10@ TOP END QUALITY⭐dont compare with cheap quality",
+        "price": "RATE : 2499",
+        "imgSrc": "images/BLAZER.jpg"
+      },
+
+      {
+        "id": 13,
+        "name": "ADIDAS SAMBA",
+        "detail": "SIZES : 40 - 45 AVAILABLE 10@ TOP END QUALITY⭐dont compare with cheap quality",
+        "price": "RATE : 2199",
+        "imgSrc": "images/simba.jpg"
+      },
+      {
+        "id": 14,
+        "name": "NEW BALANCE 550",
+        "detail": "NEW BALANCE 550",
+        "price": "RATE : 1499",
+        "imgSrc": "images/nb2.jpg"
+      },
+      {
+        "id": 15,
+        "name": "BOAt HEADPHONE",
+        "detail": " •LONG LASTING BATTERY•HANDS-FREE CALL •12 HOUR PLAYBACK •BLUETOOTH 5.0 ",
+        "price": "RATE : 800",
+        "imgSrc": "images/g1.jpg"
+      },
+      {
+        "id": 16,
+        "name": "BOAT IMMORTAL 121",
+        "detail": "-WIRELESS EARPHONE -CALL TIME UPTO 5 HOUR-CELL VOLTAGE 3.7V-500 mah BATTERY -SIGNATURE SOUND",
+        "price": "RATE :750",
+        "imgSrc": "images/g2.jpg"
+      },
+      {
+        "id": 17,
+        "name": "TISSOT 1853",
+        "detail": "-AWESOME QUALITY-LATEST ARRIVAL-UNISEX WATCHES-TRENDING MODE-ALL WORKING    ",
+        "price": "RATE : 1600",
+        "imgSrc": "images/watch1.jpg"
+      },
+
+      {
+        "id": 18,
+        "name": " Patek Phillipe",
+        "detail": "With the rounded octagonal shape of its bezel, the ingenious porthole construction of its case, and its horizontally embossed dial, the Nautilus has epitomized the elegant sports watch since 1976",
+        "price": "RATE :1300",
+        "imgSrc": "images/watch.jpg"
+      }
+    
+    ]
+  },
+
+  {
+    "filter_id": 2,
+    "filter_name": " 10@ shoes",
+    "products": [
+      {
+        "id": 19,
+        "name": "NIKE SB Dunk Low",
+        "detail": "SIZES : 40- 45 AVAILABLE FREE SHIP 10@ TOP END QUALITY⭐ WITH OG BOX 📦 & ALL KIT 49 EXTR",
+        "price": "RATE : 2399",
+        "imgSrc": "images/dunk.jpg"
+      },
+      
+      {
+        "id": 20,
+        "name": "Nike blazer mid 77 vintage",
+        "detail": "SIZES : 40 - 45 AVAILABLE 10@ TOP END QUALITY⭐dont compare with cheap quality",
+        "price": "RATE : 2499",
+        "imgSrc": "images/BLAZER.jpg"
+      }
+    ]
+  },
+
+  {
+    "filter_id": 3,
+    "filter_name": "7@ shoes",
+    "products": [
+      {
+        "id": 21,
+        "name": "NEW BALANCE 550",
+        "detail": "NEW BALANCE 550",
+        "price": "RATE : 1499",
+        "imgSrc": "images/nb2.jpg"
+      }
+    ]
+  },
+
+  {
+    "filter_id": 4,
+    "filter_name": "Gadgets",
+    "products": [
+      {
+        "id": 22,
+        "name": "BOAt HEADPHONE",
+        "detail": " •LONG LASTING BATTERY•HANDS-FREE CALL •12 HOUR PLAYBACK •BLUETOOTH 5.0 ",
+        "price": "RATE : 800",
+        "imgSrc": "images/g1.jpg"
+      },
+
+      {
+        "id": 23,
+        "name": "BOAT IMMORTAL 121",
+        "detail": "-WIRELESS EARPHONE -CALL TIME UPTO 5 HOUR-CELL VOLTAGE 3.7V-500 mah BATTERY -SIGNATURE SOUND",
+        "price": "RATE :750",
+        "imgSrc": "images/g2.jpg"
+      }
+    ]
+  },
+
+  {
+    "filter_id": 5,
+    "filter_name": "Accessories",
+    "products": [
+      {
+        "id": 24,
+        "name": "TISSOT 1853",
+        "detail": "-AWESOME QUALITY-LATEST ARRIVAL-UNISEX WATCHES-TRENDING MODE-ALL WORKING    ",
+        "price": "RATE : 1600",
+        "imgSrc": "images/watch1.jpg"
+      },
+
+      {
+        "id": 25,
+        "name": " Patek Phillipe",
+        "detail": "With the rounded octagonal shape of its bezel, the ingenious porthole construction of its case, and its horizontally embossed dial, the Nautilus has epitomized the elegant sports watch since 1976",
+        "price": "RATE :1300",
+        "imgSrc": "images/watch.jpg"
+      }
+    ]
+  }
+
+  
+]
